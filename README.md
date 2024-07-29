@@ -1,6 +1,5 @@
 ## Hi there 👋, I am Nabil
 
-<!--
 A passionate Data Analyst from USA.
 
 
@@ -11,5 +10,3 @@ A passionate Data Analyst from USA.
 - 📫 How to reach me: **[nabilmomin1989@gmail.com]**
 
 
-
--->
