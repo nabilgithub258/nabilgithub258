@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Nabil
 
-A passionate Data Analyst from USA.
+A passionate Data Analyst from New Jersey.
 
 
 - 🔭 I’m currently working on multiple projects.
