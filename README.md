@@ -42,7 +42,7 @@ A passionate Data Analyst from New Jersey.
 
 ## Work Experience
 
-- **Data Analyst** (Nov 2020 - Jun 2023)  
+- **Data Analyst** (Nov 2020 - Dec 2023)  
   Conducted comprehensive Exploratory Data Analysis (EDA) and Feature Engineering (FE) to uncover insights and optimize datasets, significantly enhancing the accuracy and performance of predictive models.
   Applied advanced machine learning techniques including SMOTE, SMOTEENN, and ADASYN for addressing class imbalance and fine-tuned algorithms such as Random Forest, Gradient Boosting, and Support Vector Machines.
   Utilized Principal Component Analysis (PCA) to reduce dimensionality and improve model interpretability, resulting in streamlined workflows and more robust data analysis outcomes.
