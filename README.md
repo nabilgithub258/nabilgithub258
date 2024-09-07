@@ -50,9 +50,9 @@ A passionate Data Analyst from New Jersey.
 - **Databases:** Oracle SQL Developer, MySQL, Microsoft SQL Server, PostgreSQL, IBM DB2, BigQuery
 - **Software/IDE:** VS Code, PyCharm, Jupyter Notebook, MS Excel, MS Word, Tableau, IBM Cognos, PowerBI
 - **Machine Learning:**
- - **General:** Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, PCA), Neural Networks, Random Forest, SVM, K-Means, Decision Trees
- - **Natural Language Processing (NLP):** Text Preprocessing, Tokenization, Lemmatization, Sentiment Analysis, TF-IDF, Word2Vec, Bag of Words
- - **Recommendation Systems:** Collaborative Filtering (User-Based, Item-Based), Matrix Factorization (SVD, ALS), Content-Based Filtering
+  - **General:** Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, PCA), Neural Networks, Random Forest, SVM, K-Means, Decision Trees
+  - **Natural Language Processing (NLP):** Text Preprocessing, Tokenization, Lemmatization, Sentiment Analysis, TF-IDF, Word2Vec, Bag of Words
+  - **Recommendation Systems:** Collaborative Filtering (User-Based, Item-Based), Matrix Factorization (SVD, ALS), Content-Based Filtering
 
 
 ## Work Experience
