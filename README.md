@@ -32,25 +32,31 @@ A passionate Data Analyst from New Jersey.
 
 - **IBM Data Analytics Professional Certificate** (Jan 2024 - Jul 2024)  
   Gained expertise in Python, machine learning, EDA, PCA, and AI through multiple case studies and a comprehensive capstone project demonstrating analytical and problem-solving skills.
+
+- **Additional Certifications**:
+  Google Data Analytics Professional Certificate | IBM Excel Basics for Data Analysis| UC Davis Fundamentals of Visualization with Tableau | Microsoft SQL Server | Oracle Database SQL Certified Associate 1Z0-071 
+  | Oracle PL/SQL | Python Bootcamp
+
   
 ## Technical Skills
 
 - **Programming Languages:** Python, R, PL/SQL, SQL, PHP
-- **Python Libraries/Packages:** NumPy, Pandas, Matplotlib, SciPy, Stats, Pyplot, Seaborn, Scikit-Learn, BeautifulSoup, Plotly
+- **Python Libraries/Packages:** NumPy, Pandas, Matplotlib, SciPy, Stats, Pyplot, Seaborn, Scikit-Learn, BeautifulSoup, Plotly, Tensorflow
 - **Databases:** Oracle SQL Developer, MySQL, Microsoft SQL Server, PostgreSQL, IBM DB2, BigQuery
 - **Software/IDE:** VS Code, PyCharm, Jupyter Notebook, MS Excel, MS Word, Tableau, IBM Cognos, PowerBI
 
 ## Work Experience
 
 - **Data Analyst** (Nov 2020 - Dec 2023)  
-  Conducted comprehensive Exploratory Data Analysis (EDA) and Feature Engineering (FE) to uncover insights and optimize datasets, significantly enhancing the accuracy and performance of predictive models.
-  Applied advanced machine learning techniques including SMOTE, SMOTEENN, and ADASYN for addressing class imbalance and fine-tuned algorithms such as Random Forest, Gradient Boosting, and Support Vector Machines.
-  Utilized Principal Component Analysis (PCA) to reduce dimensionality and improve model interpretability, resulting in streamlined workflows and more robust data analysis outcomes.
+ •	Conducted comprehensive EDA and Feature Engineering, uncovering actionable insights that led to a 15% improvement in client-decision making.
+ •	Developed and optimized machine learning models, increasing predictive accuracy by 20% for client challenges.
+ •	Created data visualizations and reports, empowering clients to make informed, data-driven decisions.
+ •	Demonstrated strong problem-solving skills and adaptability by managing multiple projects simultaneously.
 
 - **PL SQL Developer** (Oct 2019 - Jul 2020)  
-  Developed and optimized complex PL/SQL packages, procedures, and triggers, enhancing database performance.
-  Implemented advanced data processing solutions using bulk collections and dynamic SQL, reducing query execution time.
-  Automated data integration and migration tasks with PL/SQL scripts, ensuring seamless data flow.
+  •	Developed and optimized PL/SQL packages, procedures, and triggers, enhancing database performance by 25%.
+  •	Implemented data processing solutions with bulk collections and dynamic SQL, cutting query execution time by 20%.
+  •	Automated data integration and migration tasks with PL/SQL scripts, ensuring seamless data flow.
 
 - **Business Analyst** (Jun 2014 - Jul 2016)  
   Analyzed complex data sets to provide actionable insights for strategic decisions and optimize operational efficiency.
