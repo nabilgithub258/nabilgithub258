@@ -17,20 +17,18 @@ A passionate Data Analyst from New Jersey.
 
 - **Master of Science (MS) in Information Systems**  
   Pace University Seidenberg School of Computer Science and Information Systems, New York, NY  
-  *Awarded International Graduate Scholarship.*  
-  June 2019
+  *Awarded International Graduate Scholarship.*
 
   **Bachelor of Engineering (BE) in Information Technology Engineering**  
   Mumbai University, Mumbai, India  
-  *Founder of the University Football Club.*  
-  May 2014
+  *Founder of the University Football Club.*
 
 ## Certifications
 
-- **Google Data Analytics Advanced Professional Certificate** (Feb 2024 - Jul 2024)  
+- **Google Data Analytics Advanced Professional Certificate**
   Gained expertise in EDA, PCA, data cleaning, and visualization. Mastered tools including Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn), Excel, and Tableau. Conducted multiple case studies and projects culminating in a Capstone project that demonstrated practical real-world skills.
 
-- **IBM Data Analytics Professional Certificate** (Jan 2024 - Jul 2024)  
+- **IBM Data Analytics Professional Certificate**
   Gained expertise in Python, machine learning, EDA, PCA, and AI through multiple case studies and a comprehensive capstone project demonstrating analytical and problem-solving skills.
 
 - **Additional Certifications**:
