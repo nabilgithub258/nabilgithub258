@@ -25,10 +25,10 @@ A passionate Data Analyst from New Jersey.
 
 ## Certifications
 
-- **Google Data Analytics Advanced Professional Certificate**
+- **Google Data Analytics Advanced Professional Certificate**:
   Gained expertise in EDA, PCA, data cleaning, and visualization. Mastered tools including Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn), Excel, and Tableau. Conducted multiple case studies and projects culminating in a Capstone project that demonstrated practical real-world skills.
 
-- **IBM Data Analytics Professional Certificate**
+- **IBM Data Analytics Professional Certificate**:
   Gained expertise in Python, machine learning, EDA, PCA, and AI through multiple case studies and a comprehensive capstone project demonstrating analytical and problem-solving skills.
 
 - **Additional Certifications**:
